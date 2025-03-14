@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMaschine", "SlotMaschine.csproj", "{4E0F4B38-6291-47A7-A87B-0F970B02059F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0F4B38-6291-47A7-A87B-0F970B02059F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0F4B38-6291-47A7-A87B-0F970B02059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0F4B38-6291-47A7-A87B-0F970B02059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0F4B38-6291-47A7-A87B-0F970B02059F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
